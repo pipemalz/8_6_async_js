@@ -1,0 +1,25 @@
+{
+  "name": "8_6_async_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/xmlhttprequest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipemalz/8_6_async_js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pipemalz/8_6_async_js/issues"
+  },
+  "homepage": "https://github.com/pipemalz/8_6_async_js#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
